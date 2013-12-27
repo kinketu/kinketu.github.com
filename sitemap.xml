@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://kinketu.github.com/blog/2013/12/27/hello/</loc>
-        <lastmod>2013-12-27T10:39:26+09:00</lastmod>
+        <loc>http://kinketu.github.com/blog/2013/12/27/chu-tou-gao/</loc>
+        <lastmod>2013-12-27T18:19:00+09:00</lastmod>
     </url>
     <url>
         <loc>http://kinketu.github.com/blog/archives/</loc>
-        <lastmod>2013-12-27T10:39:26+09:00</lastmod>
+        <lastmod>2013-12-27T18:19:00+09:00</lastmod>
     </url>
     <url>
         <loc>http://kinketu.github.com/robots.txt</loc>
@@ -14,6 +14,6 @@
     </url>
     <url>
         <loc>http://kinketu.github.com/</loc>
-        <lastmod>2013-12-27T10:39:26+09:00</lastmod>
+        <lastmod>2013-12-27T18:19:00+09:00</lastmod>
     </url>
 </urlset>
