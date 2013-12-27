@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://kinketu.github.io/atom.xml" rel="self"/>
-  <link href="http://kinketu.github.io/"/>
-  <updated>2013-12-27T10:29:51+09:00</updated>
-  <id>http://kinketu.github.io/</id>
+  <title><![CDATA[kinketu's blog at github]]></title>
+  <link href="http://kinketu.github.com/atom.xml" rel="self"/>
+  <link href="http://kinketu.github.com/"/>
+  <updated>2013-12-27T10:32:19+09:00</updated>
+  <id>http://kinketu.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[kinketu]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello2]]></title>
+    <link href="http://kinketu.github.com/blog/2013/12/27/hello2/"/>
+    <updated>2013-12-27T10:31:53+09:00</updated>
+    <id>http://kinketu.github.com/blog/2013/12/27/hello2</id>
+    <content type="html"><![CDATA[<p>Hello2</p>
+]]></content>
+  </entry>
   
 </feed>

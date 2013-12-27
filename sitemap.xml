@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://kinketu.github.io/blog/archives/</loc>
+        <loc>http://kinketu.github.com/blog/2013/12/27/hello2/</loc>
+        <lastmod>2013-12-27T10:32:07+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://kinketu.github.com/blog/archives/</loc>
+        <lastmod>2013-12-27T10:32:07+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://kinketu.github.com/robots.txt</loc>
         <lastmod>2013-12-27T10:29:16+09:00</lastmod>
     </url>
     <url>
-        <loc>http://kinketu.github.io/robots.txt</loc>
-        <lastmod>2013-12-27T10:29:16+09:00</lastmod>
-    </url>
-    <url>
-        <loc>http://kinketu.github.io/</loc>
-        <lastmod>2013-12-27T10:29:16+09:00</lastmod>
+        <loc>http://kinketu.github.com/</loc>
+        <lastmod>2013-12-27T10:32:07+09:00</lastmod>
     </url>
 </urlset>
